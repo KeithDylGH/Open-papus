@@ -1,5 +1,7 @@
-https://color.adobe.com/search?q=blue%2C%20white
+Nav Bar #EDEDED
 
-https://color.adobe.com/search?q=white
+Background #1A1A1A
 
-https://color.adobe.com/search?q=black
+Transition #262626
+
+Hover Text Nav bar #595959
