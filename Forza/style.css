@@ -5,10 +5,10 @@ body {
     margin: 0px;
     background-color: #1A1A1A;
 
-    background-image: url(img/Forza.jpg);
+/*     background-image: url(img/Forza.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-attachment: fixed;
+    background-attachment: fixed; */
 }
 
 header {
@@ -52,8 +52,35 @@ a:hover {
     color: #595959;
 }
 
-#eslogan {
-    height: 400px;
-    position: fixed;
-    left: 60px;
+.backimg {
+    margin: 0px;
+    background-image: url(img/Forza2.png);
+    background-size: cover;
+    height: 800px;
+}
+
+h2 {
+    margin: 0px;
+    color: #1A1A1A;
+    font-size: 3.5rem;
+    position: relative;
+}
+.menu {
+    margin: 0px;
+    background-color: #EDEDED;
+    height: 900px;
+    box-shadow: 0px -30px 8rem 30px #1A1A1A;
+    padding-left: 7.5rem;
+    padding-top: 3.5rem;
+}
+
+.footer {
+    margin: 0px;
+    background-color: #1A1A1A;
+    padding: 40px;
+    box-shadow: 0px -1px 45px #1A1A1A;
+}    
+.Copyright {
+    color: #EDEDED;
+    text-align: right;
 }
