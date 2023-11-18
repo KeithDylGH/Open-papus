@@ -56,7 +56,7 @@ a:hover {
     margin: 0px;
     background-image: url(img/Forza2.png);
     background-size: cover;
-    height: 800px;
+    height: 900px;
 }
 
 h2 {
@@ -68,7 +68,7 @@ h2 {
 .menu {
     margin: 0px;
     background-color: #EDEDED;
-    height: 900px;
+    height: 1000px;
     box-shadow: 0px -30px 8rem 30px #1A1A1A;
     padding-left: 7.5rem;
     padding-top: 3.5rem;
@@ -78,7 +78,7 @@ h2 {
     margin: 0px;
     background-color: #1A1A1A;
     padding: 40px;
-    box-shadow: 0px -1px 45px #1A1A1A;
+    box-shadow: 0px -1px 25px #1A1A1A;
 }    
 .Copyright {
     color: #EDEDED;
