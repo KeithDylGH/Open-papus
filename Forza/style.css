@@ -58,6 +58,33 @@ a:hover {
     background-size: cover;
     height: 900px;
 }
+.btn {
+    margin: 0px;
+    padding-top: 15px;
+    padding-bottom: 10px;
+    background-color: #ea0c80;
+    border-radius: 5px;
+    text-align: center;
+    height: 2.5rem;
+    width: 25.5rem;
+    font-size: 30px;
+    position: relative;
+    bottom: 25rem;
+    left: 13.5rem;
+    font-family: 'Kant';
+    cursor: pointer;
+}
+.btntext {
+    color: #EDEDED;
+}
+.btn:hover{
+    background-color: #262626;
+    color: #3A3A3A;
+    transition: ease-in-out 0.2s;
+}
+.btntext:hover {
+    color: #EDEDED;
+}
 
 h2 {
     margin: 0px;
@@ -72,6 +99,11 @@ h2 {
     box-shadow: 0px -30px 8rem 30px #1A1A1A;
     padding-left: 7.5rem;
     padding-top: 3.5rem;
+    padding-right: 25rem;
+    font-size: 20px;
+}
+.background-menu {
+
 }
 
 .footer {
