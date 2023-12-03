@@ -105,6 +105,14 @@ h2 {
 .background-menu {
 
 }
+.links-text {
+    display: inline-block;
+}
+.trailer-vid {
+    display: block;
+    width: 400px;
+    
+}
 
 .footer {
     margin: 0px;
