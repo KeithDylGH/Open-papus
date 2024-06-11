@@ -1,0 +1,61 @@
+.vh-100{
+    background-color: #f3f3f3;
+}
+
+.text-body{
+    color: #bababa;
+}
+.text-body:hover{
+    color: #E57368;
+    transition: ease-in-out .2s;
+}
+
+.form-check{
+    display: flex;
+    flex-direction: column;
+}
+
+.mask{
+    padding: 2rem;
+}
+
+.claveOlvidada a{
+    color: #bababa;
+}
+.claveOlvidada a:hover{
+    color: #E57368;
+    transition: ease-in-out .2s;
+}
+
+.cuenta a{
+    color: #bababa;
+}
+.cuenta a:hover{
+    color: #E57368;
+    transition: ease-in-out .2s;
+}
+
+.logo img{
+    width: 50%;
+    margin: 0 auto;
+    margin-bottom: 1rem;
+    display: flex;
+    justify-content: center;
+}
+
+footer {
+    background-color: #2d1c1c;
+    color: #fff;
+    padding-bottom: 2rem;
+}
+footer a{
+    color: #bababa;
+}
+footer a:hover{
+    color: #E57368;
+    text-decoration: none;
+    transition: .2s ease-in;
+}
+.row{
+    justify-content: center;
+}

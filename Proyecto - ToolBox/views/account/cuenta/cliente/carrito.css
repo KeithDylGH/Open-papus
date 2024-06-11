@@ -1,0 +1,66 @@
+.card{
+    margin-bottom: 20px;
+}
+
+.historial{
+    padding: 5px;
+    background-color: #383030;
+    border-radius: 5px;
+    margin-bottom: 2rem;
+}
+
+.historial h3{
+    color: #fff;
+}
+
+.historial-mas{
+    color: #fff;
+}
+.historial-letra{
+    justify-content: space-between;
+    padding: .8rem;
+}
+
+.historial-letra a{
+    font-size: 12px;
+    text-transform: uppercase;
+}
+.historial-letra a:hover{
+    color: #E57368;
+    transition: .2s ease-in-out;
+    text-decoration: none;
+}
+.historial-mas svg{
+    position: relative;
+    top: 4px;
+}
+
+.historialP{
+    padding: 5px;
+    background-color: #987d7d;
+    border-radius: 5px;
+    margin-bottom: 2rem;
+}
+.historialP h3{
+    color: #fff;
+}
+
+.card-body-update p{
+    font-size: .9rem;
+}
+
+.card-generalP img{
+    width: 60%;
+}
+
+@media screen and (max-width: 900px) {
+    .gridGroup .card-generalP{
+        display: flex;
+        flex-direction: column;
+    }
+
+    .gridH .card-generalP{
+        display: flex;
+        flex-direction: column;
+    }
+}

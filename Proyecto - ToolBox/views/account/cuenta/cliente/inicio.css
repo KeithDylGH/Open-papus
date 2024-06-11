@@ -1,0 +1,60 @@
+/*INICIO*/
+
+.interfaz{
+    background-color: #e5e5e5;
+    padding: 2rem;
+  }
+
+.card-title{
+    font-weight: 600;
+  }
+  
+  .card-text-overlay{
+    font-size: 20px;
+    font-weight: 100;
+  }
+  .card-subtitle{
+    font-weight: 500;
+    text-transform: uppercase;
+  }
+  
+  .card-body{
+    text-align: center;
+  }
+  
+  .card-link{
+    color: #5e3b3b;
+  }
+  .card-link:hover{
+    color: #E57368;
+    transition: .2s ease-in-out;
+  }
+  
+  
+  .inicio-carrusel{
+    margin-top: 2rem;
+    background-color: #5e3b3b;
+    color: #fff;
+    padding: 10px 5px;
+    border-radius: 5px;
+  }
+  
+  .inicio-carrusel h3{
+    padding-left: 15px;
+    font-weight: 500;
+    font-size: 20px;
+  }
+  
+  .card-body-update{
+    width: 100%;
+    color: #1f1616;
+  }
+  
+  .card-general img{
+    width: 50%;
+    margin: 0 auto;
+  }
+  .card-general p{
+    font-size: .9rem;
+  }
+
