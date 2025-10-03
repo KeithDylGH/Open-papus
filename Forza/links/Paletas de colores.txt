@@ -1,7 +1,0 @@
-Nav Bar #EDEDED
-
-Background #1A1A1A
-
-Transition #262626
-
-Hover Text Nav bar #595959
